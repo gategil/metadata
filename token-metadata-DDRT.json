@@ -2,7 +2,7 @@
     "name": "Doldari",
     "symbol": "DDRT",
     "description": "This is a utility token for doldari service platform!",
-    "image": "https://www.doldari.com/images/doldariTokenImage_100x100.png",
+    "image": "https://raw.githubusercontent.com/gategil/metadata/master/doldariTokenImage_100x100.png",
     "seller_fee_basis_points": 500,
     "external_url": "https://www.doldari.com",
     "attributes": [
