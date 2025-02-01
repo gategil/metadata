@@ -1,0 +1,12 @@
+{
+    "name": "Doldari-test",
+    "symbol": "DDRTST",
+    "description": "This is a utility token for doldari service platform!",
+    "image": "https://www.doldari.com/images/doldariTokenImage_100x100.png",
+    "seller_fee_basis_points": 500,
+    "external_url": "https://www.doldari.com",
+    "attributes": [
+      { "trait_type": "Purpose", "value": "Utility" }
+    ]
+  }
+  
