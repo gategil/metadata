@@ -1,6 +1,6 @@
 {
-    "name": "Doldari",
-    "symbol": "DDR",
+    "name": "Doldari-Token",
+    "symbol": "DDRT",
     "description": "This is a utility token for doldari service platform!",
     "image": "https://www.doldari.com/images/doldariTokenImage_100x100.png",
     "seller_fee_basis_points": 500,
